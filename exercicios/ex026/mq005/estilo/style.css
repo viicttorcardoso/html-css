@@ -63,7 +63,7 @@ menu > ul > li > a:hover {
 
 main  {
     width: 90vw;
-    height: 50vh; 
+    height: 56vh; 
     background-color: white;
     margin: auto;
     margin-top: 10px;
@@ -79,4 +79,5 @@ article > p {
   text-align: justify;
   margin-bottom: 20px;
   text-indent: 20px;
+  
 }
